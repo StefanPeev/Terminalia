@@ -3,7 +3,13 @@
 Terminalia
 ============
 
-The Terminalia project is based on [Terminus Font](https://terminus-font.sourceforge.net/). See about Terminus font also [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus). 
+The Terminalia project is based on [Terminus Font](https://terminus-font.sourceforge.net/). See about Terminus font
+- [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus)
+- [Sourceforge](https://sourceforge.net/projects/terminus-font/)
+- [Terminus Font Home Page](https://terminus-font.sourceforge.net/)
+- [Terminus TTF A TrueType version of Terminus Font](https://files.ax86.net/terminus-ttf/)
+- [Terminus font. Web archive](https://web.archive.org/web/20110725210710/http://fractal.csie.org/~eric/wiki/Terminus_font)
+- [Vector version of the font](https://www.ax86.net/terminus:/)
 The project is in its beginning. Any contributions are well-come and highly appreciated.  
   
 History 
