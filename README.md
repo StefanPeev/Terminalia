@@ -1,3 +1,5 @@
+![Sample Image](/images/Screenshot 2025-01-24 204353.png)
+
 Terminalia
 ============
 
