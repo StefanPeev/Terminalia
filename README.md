@@ -1,10 +1,7 @@
-# Terminalia
-The Terminalia project is based on Terminus Font.
-
 Terminalia
 ============
 
-The font family Terminalia is based on [Terminus Font](https://terminus-font.sourceforge.net/). See about Terminus font also [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus). 
+The Terminalia project is based on [Terminus Font](https://terminus-font.sourceforge.net/). See about Terminus font also [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus). 
 The project is in its beginning. Any contributions are well-come and highly appreciated.  
   
 History 
@@ -39,7 +36,7 @@ Projects using Terminalia
 ----------------------
 
 Have you made something nice with Terminalia?  
-[Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Ezerovo/discussions/categories/show-and-tell).  
+[Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Terminalia/discussions/categories/show-and-tell).  
   
 Localfonts projects
 -------------------
