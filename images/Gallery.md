@@ -1,8 +1,8 @@
 # Gallery
 
-<img src="https://github.com/StefanPeev/Terminalia/blob/main/images/Screenshot%202025-01-24%20204353.png" />
+<img src="https://github.com/StefanPeev/Terminalia/blob/main/images/Terminalia_01.png" />
 
-<img src="https://github.com/StefanPeev/Terminalia/blob/main/images/Screenshot%202025-01-24%20171557.png" />
+<img src="https://github.com/StefanPeev/Terminalia/blob/main/images/Inconsistency_in_the_diacritics_signs_01.png" />
 
 
 
