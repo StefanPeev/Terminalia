@@ -8,9 +8,14 @@ Read more about Terminus font here:
 - [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus)
 - [Sourceforge](https://sourceforge.net/projects/terminus-font/)
 - [Terminus Font Home Page](https://terminus-font.sourceforge.net/)
-- [Terminus TTF A TrueType version of Terminus Font](https://files.ax86.net/terminus-ttf/)
+- [Terminus TTF. A TrueType version of Terminus Font](https://files.ax86.net/terminus-ttf/)
 - [Terminus font. Web archive](https://web.archive.org/web/20110725210710/http://fractal.csie.org/~eric/wiki/Terminus_font)
 - [Vector version of the font Terminus](https://www.ax86.net/terminus:/)
+  
+Other projects inspired by the Terminus project:    
+- [Vecterminus. Vectorized Terminus Font](https://github.com/tisimst/vecterminus)  
+- [Terminus](https://github.com/chrissimpkins/codeface/tree/master/fonts/terminus)  
+- [Terminus TTF v.4.49.3](https://www.ax86.net/2023/04/28/terminus-ttf-4493-released/)
   
 The project is in its beginning. Any contributions are well-come and highly appreciated.  
   
