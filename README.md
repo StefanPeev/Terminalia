@@ -3,9 +3,9 @@
 Terminalia
 ============
 
-The Terminalia project is based on [Terminus Font](https://terminus-font.sourceforge.net/).  
+The Terminalia project is inspired by [Terminus Font](https://terminus-font.sourceforge.net/).  
 Read more about Terminus font here:  
-- [Wikipedia article](https://ru.wikipedia.org/wiki/Terminus)
+- [Wikipedia](https://ru.wikipedia.org/wiki/Terminus)
 - [Sourceforge](https://sourceforge.net/projects/terminus-font/)
 - [Terminus Font Home Page](https://terminus-font.sourceforge.net/)
 - [Terminus TTF. A TrueType version of Terminus Font](https://files.ax86.net/terminus-ttf/)
@@ -17,17 +17,18 @@ Other projects inspired by the Terminus project:
 - [Terminus](https://github.com/chrissimpkins/codeface/tree/master/fonts/terminus)  
 - [Terminus TTF v.4.49.3](https://www.ax86.net/2023/04/28/terminus-ttf-4493-released/)
   
-The project is in its beginning. Any contributions are well-come and highly appreciated.  
+The project Terminalia is in its beginning. Any contributions are well-come and highly appreciated.  
   
 History 
 -------
 
-The Terminalia font project (Copyright (c) 2025 Stefan Peev) is based on the [Terminus Font project 4.38](https://files.ax86.net/terminus-ttf/README.Terminus.txt) (Copyright (c) 2012 Dimitar Zhekov).
+The Terminalia font project (Copyright (c) 2025 Stefan Peev) starts from [Terminus Font project 4.38](https://files.ax86.net/terminus-ttf/README.Terminus.txt) (Copyright (c) 2012 Dimitar Zhekov).
+For detailed changes in the project see Fontlog.md
 
 Acknowledgements
 ----------------
 
-If you make modifications to the project, be sure to add your details below, including <code>your name</code> (N), <code>email</code> (if you have one) (E), <code>web-address</code> (if you have one) (W), <code>twitter handle</code> (if you have one) (T) and <code>description</code> (D).
+If you make modifications to the Terminalia project, be sure to add your details below, including <code>your name</code> (N), <code>email</code> (if you have one) (E), <code>web-address</code> (if you have one) (W), <code>twitter handle</code> (if you have one) (T) and <code>description</code> (D).
 
 Project Manager
 ----------------
@@ -49,7 +50,7 @@ Examples
 See [images](/images/) and [Gallery](/images/Gallery.md).
 
 Projects using Terminalia
-----------------------
+-------------------------
 
 Have you made something nice with Terminalia?  
 [Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Terminalia/discussions/categories/show-and-tell).  
@@ -57,7 +58,7 @@ Have you made something nice with Terminalia?
 Localfonts projects
 -------------------
   
-The primarily aim of the project **LOCALFONTS** is to extend Cyrillic in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
+The primarily aim of the project **LOCALFONTS** is to extend glyphs range in fonts published under licenses which permit modifications and derivative works by adding Cyrillic local forms (Bulgarian, Serbian, Macedonian, Ukrainian etc.).  
 The **Localfonts** project consists of the following fonts:
 
 + [Acari Sans](https://github.com/StefanPeev/acari-sans/tree/local) 
