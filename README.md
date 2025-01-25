@@ -22,8 +22,8 @@ The project Terminalia is in its beginning. Any contributions are well-come and 
 History 
 -------
 
-The Terminalia font project (Copyright (c) 2025 Stefan Peev) starts from [Terminus Font project 4.38](https://files.ax86.net/terminus-ttf/README.Terminus.txt) (Copyright (c) 2012 Dimitar Zhekov).
-For detailed changes in the project see Fontlog.md
+The Terminalia font project (Copyright (c) 2025 Stefan Peev) starts from [Terminus Font project 4.38](https://files.ax86.net/terminus-ttf/README.Terminus.txt) (Copyright (c) 2012 Dimitar Zhekov).  
+For detailed changes in the project see [Fontlog.md](https://github.com/StefanPeev/Terminalia/blob/main/Fontlog.md)
 
 Acknowledgements
 ----------------
