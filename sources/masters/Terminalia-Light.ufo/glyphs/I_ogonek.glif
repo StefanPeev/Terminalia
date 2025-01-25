@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="-31" type="line"/>
+      <point x="186" y="-31" type="line"/>
+      <point x="186" y="-124" type="line"/>
+      <point x="217" y="-124" type="line"/>
+      <point x="217" y="-155" type="line"/>
+      <point x="341" y="-155" type="line"/>
+      <point x="341" y="-93" type="line"/>
+      <point x="248" y="-93" type="line"/>
+      <point x="248" y="-62" type="line"/>
+      <point x="279" y="-62" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="341" y="0" type="line"/>
+      <point x="341" y="62" type="line"/>
+      <point x="279" y="62" type="line"/>
+      <point x="279" y="558" type="line"/>
+      <point x="341" y="558" type="line"/>
+      <point x="341" y="620" type="line"/>
+      <point x="155" y="620" type="line"/>
+      <point x="155" y="558" type="line"/>
+      <point x="217" y="558" type="line"/>
+      <point x="217" y="62" type="line"/>
+      <point x="155" y="62" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,55 @@
+#> classes
+#/> otclasses
+@cyrl_DFLT = [uni0432 uni0433 uni0434 uni0436 uni0438 uni0439 uni043A uni043F uni0442 uni0446 uni0448 uni0449 uni044E];
+@locl_BGR = [uni0432.loclBGR uni0433.loclBGR uni0434.loclBGR uni0436.loclBGR uni0438.loclBGR uni0439.loclBGR uni043A.loclBGR uni043F.loclBGR uni0442.loclBGR uni0446.loclBGR uni0448.loclBGR uni0449.loclBGR uni044E.loclBGR];
+#/< otclasses
+#< classes
+
+languagesystem DFLT dflt;
+languagesystem beng dflt;
+languagesystem knda dflt;
+languagesystem latn dflt;
+languagesystem mlym dflt;
+languagesystem orya dflt;
+languagesystem sinh dflt;
+languagesystem taml dflt;
+languagesystem telu dflt;
+languagesystem tibt dflt;
+languagesystem cyrl dflt;
+languagesystem cyrl BGR;
+
+
+# GSUB 
+
+lookup cyrl_DFLT_locl_BGR {
+		sub @cyrl_DFLT by @locl_BGR;
+} cyrl_DFLT_locl_BGR;
+feature locl {
+# Localized Forms
+
+#> feature
+  script cyrl; # Cyrillic
+  language BGR; # Bulgarian
+  lookup cyrl_DFLT_locl_BGR;
+
+  script latn; # Latin
+  language MOL; # Moldavian
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub uni0162 by uni021A;
+  sub uni0163 by uni021B;
+
+  language ROM; # Romanian
+  sub Scedilla by Scommaaccent;
+  sub scedilla by scommaaccent;
+  sub uni0162 by uni021A;
+  sub uni0163 by uni021B;
+#< feature
+} locl;
+feature ss01 {
+# Stylistic Set 01–20
+
+#> feature
+  lookup cyrl_DFLT_locl_BGR;
+#< feature
+} ss01;

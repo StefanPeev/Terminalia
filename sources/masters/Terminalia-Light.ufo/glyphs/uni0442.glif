@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0442" format="2">
+  <advance width="500"/>
+  <unicode hex="0442"/>
+  <outline>
+    <contour>
+      <point x="217" y="434" type="line"/>
+      <point x="279" y="434" type="line"/>
+      <point x="279" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="434" type="line"/>
+      <point x="434" y="434" type="line"/>
+      <point x="434" y="372" type="line"/>
+      <point x="62" y="372" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="62" y="0"/>
+  <guideline angle="90" x="434" y="0"/>
+  <guideline angle="90" x="248" y="0"/>
+  <guideline angle="90" x="217" y="0"/>
+  <guideline angle="90" x="279" y="0"/>
+</glyph>

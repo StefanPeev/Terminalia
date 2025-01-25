@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="2">
+  <advance width="500"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="49" y="279" type="line"/>
+      <point x="142" y="279" type="line"/>
+      <point x="142" y="310" type="line"/>
+      <point x="204" y="310" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="310" type="line"/>
+      <point x="328" y="310" type="line"/>
+      <point x="328" y="341" type="line"/>
+      <point x="359" y="341" type="line"/>
+      <point x="359" y="372" type="line"/>
+      <point x="452" y="372" type="line"/>
+      <point x="452" y="434" type="line"/>
+      <point x="352.8" y="434" type="line"/>
+      <point x="352.8" y="434" type="line"/>
+      <point x="328" y="434" type="line"/>
+      <point x="328" y="403" type="line"/>
+      <point x="297" y="403" type="line"/>
+      <point x="297" y="372" type="line"/>
+      <point x="242.75" y="372" type="line"/>
+      <point x="242.75" y="372" type="line"/>
+      <point x="80" y="372" type="line"/>
+      <point x="80" y="341" type="line"/>
+      <point x="49" y="341" type="line"/>
+    </contour>
+  </outline>
+</glyph>

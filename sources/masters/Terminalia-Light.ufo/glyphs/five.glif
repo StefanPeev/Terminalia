@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five" format="2">
+  <advance width="500"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="62" y="62" type="line"/>
+      <point x="93" y="62" type="line"/>
+      <point x="93" y="31" type="line"/>
+      <point x="124" y="31" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="31" type="line"/>
+      <point x="403" y="31" type="line"/>
+      <point x="403" y="62" type="line"/>
+      <point x="434" y="62" type="line"/>
+      <point x="434" y="310" type="line"/>
+      <point x="403" y="310" type="line"/>
+      <point x="403" y="341" type="line"/>
+      <point x="372" y="341" type="line"/>
+      <point x="372" y="372" type="line"/>
+      <point x="124" y="372" type="line"/>
+      <point x="124" y="558" type="line"/>
+      <point x="434" y="558" type="line"/>
+      <point x="434" y="620" type="line"/>
+      <point x="62" y="620" type="line"/>
+      <point x="62" y="310" type="line"/>
+      <point x="372" y="310" type="line"/>
+      <point x="372" y="62" type="line"/>
+      <point x="124" y="62" type="line"/>
+      <point x="124" y="124" type="line"/>
+      <point x="62" y="124" type="line"/>
+    </contour>
+  </outline>
+</glyph>

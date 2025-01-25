@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="2">
+  <advance width="500"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="80" y="31" type="line"/>
+      <point x="111" y="31" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="297" y="0" type="line"/>
+      <point x="297" y="-31" type="line"/>
+      <point x="266" y="-31" type="line"/>
+      <point x="266" y="-124" type="line"/>
+      <point x="297" y="-124" type="line"/>
+      <point x="297" y="-155" type="line"/>
+      <point x="452" y="-155" type="line"/>
+      <point x="452" y="-93" type="line"/>
+      <point x="359" y="-93" type="line"/>
+      <point x="359" y="-62" type="line"/>
+      <point x="390" y="-62" type="line"/>
+      <point x="390" y="-31" type="line"/>
+      <point x="452" y="-31" type="line"/>
+      <point x="452" y="372" type="line"/>
+      <point x="421" y="372" type="line"/>
+      <point x="421" y="403" type="line"/>
+      <point x="390" y="403" type="line"/>
+      <point x="390" y="434" type="line"/>
+      <point x="80" y="434" type="line"/>
+      <point x="80" y="372" type="line"/>
+      <point x="359" y="372" type="line"/>
+      <point x="359" y="279" type="line"/>
+      <point x="111" y="279" type="line"/>
+      <point x="111" y="248" type="line"/>
+      <point x="80" y="248" type="line"/>
+      <point x="80" y="217" type="line"/>
+      <point x="49" y="217" type="line"/>
+      <point x="49" y="62" type="line"/>
+      <point x="80" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="62" type="line"/>
+      <point x="142" y="217" type="line"/>
+      <point x="359" y="217" type="line"/>
+      <point x="359" y="62" type="line"/>
+    </contour>
+  </outline>
+</glyph>

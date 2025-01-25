@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+  <advance width="500"/>
+  <unicode hex="0049"/>
+  <anchor x="250" y="651" name="top"/>
+  <anchor x="250" y="-31" name="bottom"/>
+  <anchor x="250" y="690" name="t.macron"/>
+  <outline>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="359" y="62" type="line"/>
+      <point x="297" y="62" type="line"/>
+      <point x="297" y="558" type="line"/>
+      <point x="359" y="558" type="line"/>
+      <point x="359" y="620" type="line"/>
+      <point x="142" y="620" type="line"/>
+      <point x="142" y="558" type="line"/>
+      <point x="204" y="558" type="line"/>
+      <point x="204" y="62" type="line"/>
+      <point x="142" y="62" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="651"/>
+  <guideline angle="90" x="142" y="0"/>
+  <guideline angle="90" x="359" y="0"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="0" x="0" y="-31"/>
+</glyph>
