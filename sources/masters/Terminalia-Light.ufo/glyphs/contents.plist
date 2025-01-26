@@ -458,6 +458,8 @@
   <string>dotbelowcomb.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>dotlessj</key>
+  <string>dotlessj.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>eacute</key>
@@ -690,6 +692,8 @@
   <string>parenleft.glif</string>
   <key>parenright</key>
   <string>parenright.glif</string>
+  <key>percent</key>
+  <string>percent.glif</string>
   <key>period</key>
   <string>period.glif</string>
   <key>periodcentered</key>
@@ -740,6 +744,8 @@
   <string>registered.glif</string>
   <key>revlogicalnot</key>
   <string>revlogicalnot.glif</string>
+  <key>ring</key>
+  <string>ring.glif</string>
   <key>rtblock</key>
   <string>rtblock.glif</string>
   <key>s</key>

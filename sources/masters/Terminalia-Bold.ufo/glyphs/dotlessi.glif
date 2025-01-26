@@ -2,8 +2,6 @@
 <glyph name="dotlessi" format="2">
   <advance width="500"/>
   <unicode hex="0131"/>
-  <anchor x="250" y="496" name="top"/>
-  <anchor x="250" y="504" name="t.macron"/>
   <outline>
     <contour>
       <point x="142" y="0" type="line"/>
@@ -18,8 +16,4 @@
       <point x="142" y="62" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="496"/>
-  <guideline angle="90" x="142" y="0"/>
-  <guideline angle="90" x="359" y="0"/>
-  <guideline angle="90" x="250" y="0"/>
 </glyph>

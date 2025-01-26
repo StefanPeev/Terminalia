@@ -2,42 +2,21 @@
 <glyph name="Aogonek" format="2">
   <advance width="500"/>
   <unicode hex="0104"/>
+  <anchor x="248" y="651" name="top"/>
+  <anchor x="248" y="690" name="t.macron"/>
+  <anchor x="248" y="620" name="t.ring"/>
   <outline>
-    <contour>
-      <point x="62" y="0" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="124" y="248" type="line"/>
-      <point x="372" y="248" type="line"/>
-      <point x="372" y="0" type="line"/>
-      <point x="310" y="0" type="line"/>
-      <point x="310" y="-31" type="line"/>
-      <point x="279" y="-31" type="line"/>
-      <point x="279" y="-124" type="line"/>
-      <point x="310" y="-124" type="line"/>
-      <point x="310" y="-155" type="line"/>
-      <point x="434" y="-155" type="line"/>
-      <point x="434" y="-93" type="line"/>
-      <point x="341" y="-93" type="line"/>
-      <point x="341" y="-62" type="line"/>
-      <point x="372" y="-62" type="line"/>
-      <point x="372" y="-31" type="line"/>
-      <point x="434" y="-31" type="line"/>
-      <point x="434" y="558" type="line"/>
-      <point x="403" y="558" type="line"/>
-      <point x="403" y="589" type="line"/>
-      <point x="372" y="589" type="line"/>
-      <point x="372" y="620" type="line"/>
-      <point x="124" y="620" type="line"/>
-      <point x="124" y="589" type="line"/>
-      <point x="93" y="589" type="line"/>
-      <point x="93" y="558" type="line"/>
-      <point x="62" y="558" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="310" type="line"/>
-      <point x="124" y="558" type="line"/>
-      <point x="372" y="558" type="line"/>
-      <point x="372" y="310" type="line"/>
-    </contour>
+    <component base="A"/>
+    <component base="uni0328" xOffset="356"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>A+>uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

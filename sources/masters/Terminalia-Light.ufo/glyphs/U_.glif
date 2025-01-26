@@ -4,6 +4,8 @@
   <unicode hex="0055"/>
   <anchor x="248" y="651" name="top"/>
   <anchor x="248" y="690" name="t.macron"/>
+  <anchor x="248" y="620" name="t.ring"/>
+  <anchor x="294" y="0" name="b.ogonek"/>
   <outline>
     <contour>
       <point x="62" y="62" type="line"/>

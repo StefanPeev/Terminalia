@@ -2,70 +2,19 @@
 <glyph name="Ohungarumlaut" format="2">
   <advance width="500"/>
   <unicode hex="0150"/>
+  <anchor x="248" y="690" name="t.macron"/>
   <outline>
-    <contour>
-      <point x="93" y="651" type="line"/>
-      <point x="186" y="651" type="line"/>
-      <point x="186" y="682" type="line"/>
-      <point x="217" y="682" type="line"/>
-      <point x="217" y="713" type="line"/>
-      <point x="248" y="713" type="line"/>
-      <point x="248" y="744" type="line"/>
-      <point x="279" y="744" type="line"/>
-      <point x="279" y="775" type="line"/>
-      <point x="186" y="775" type="line"/>
-      <point x="186" y="744" type="line"/>
-      <point x="155" y="744" type="line"/>
-      <point x="155" y="713" type="line"/>
-      <point x="124" y="713" type="line"/>
-      <point x="124" y="682" type="line"/>
-      <point x="93" y="682" type="line"/>
-    </contour>
-    <contour>
-      <point x="279" y="651" type="line"/>
-      <point x="372" y="651" type="line"/>
-      <point x="372" y="682" type="line"/>
-      <point x="403" y="682" type="line"/>
-      <point x="403" y="713" type="line"/>
-      <point x="434" y="713" type="line"/>
-      <point x="434" y="744" type="line"/>
-      <point x="465" y="744" type="line"/>
-      <point x="465" y="775" type="line"/>
-      <point x="372" y="775" type="line"/>
-      <point x="372" y="744" type="line"/>
-      <point x="341" y="744" type="line"/>
-      <point x="341" y="713" type="line"/>
-      <point x="310" y="713" type="line"/>
-      <point x="310" y="682" type="line"/>
-      <point x="279" y="682" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="62" type="line"/>
-      <point x="93" y="62" type="line"/>
-      <point x="93" y="31" type="line"/>
-      <point x="124" y="31" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="372" y="0" type="line"/>
-      <point x="372" y="31" type="line"/>
-      <point x="403" y="31" type="line"/>
-      <point x="403" y="62" type="line"/>
-      <point x="434" y="62" type="line"/>
-      <point x="434" y="558" type="line"/>
-      <point x="403" y="558" type="line"/>
-      <point x="403" y="589" type="line"/>
-      <point x="372" y="589" type="line"/>
-      <point x="372" y="620" type="line"/>
-      <point x="124" y="620" type="line"/>
-      <point x="124" y="589" type="line"/>
-      <point x="93" y="589" type="line"/>
-      <point x="93" y="558" type="line"/>
-      <point x="62" y="558" type="line"/>
-    </contour>
-    <contour>
-      <point x="124" y="62" type="line"/>
-      <point x="124" y="558" type="line"/>
-      <point x="372" y="558" type="line"/>
-      <point x="372" y="62" type="line"/>
-    </contour>
+    <component base="O"/>
+    <component base="uni030B" xOffset="248" yOffset="124"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>O+uni030B</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

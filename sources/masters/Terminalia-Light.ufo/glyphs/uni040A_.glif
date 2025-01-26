@@ -2,4 +2,42 @@
 <glyph name="uni040A" format="2">
   <advance width="500"/>
   <unicode hex="040A"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="72" y="279" type="line"/>
+      <point x="253" y="279" type="line"/>
+      <point x="253" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="315" y="620" type="line"/>
+      <point x="253" y="620" type="line"/>
+      <point x="253" y="341" type="line"/>
+      <point x="72" y="341" type="line"/>
+      <point x="72" y="620" type="line"/>
+      <point x="10" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="62" type="line"/>
+      <point x="315" y="310" type="line"/>
+      <point x="428" y="310" type="line"/>
+      <point x="428" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="253" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="428" y="31" type="line"/>
+      <point x="459" y="31" type="line"/>
+      <point x="459" y="62" type="line"/>
+      <point x="490" y="62" type="line"/>
+      <point x="490" y="310" type="line"/>
+      <point x="459" y="310" type="line"/>
+      <point x="459" y="341" type="line"/>
+      <point x="428" y="341" type="line"/>
+      <point x="428" y="372" type="line"/>
+      <point x="315" y="372" type="line"/>
+      <point x="315" y="620" type="line"/>
+      <point x="253" y="620" type="line"/>
+    </contour>
+  </outline>
 </glyph>

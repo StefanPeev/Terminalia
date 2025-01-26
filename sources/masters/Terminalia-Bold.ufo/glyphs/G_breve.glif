@@ -2,6 +2,7 @@
 <glyph name="Gbreve" format="2">
   <advance width="500"/>
   <unicode hex="011E"/>
+  <anchor x="250" y="-31" name="bottom"/>
   <outline>
     <component base="G"/>
     <component base="uni0306" xOffset="250" yOffset="124"/>

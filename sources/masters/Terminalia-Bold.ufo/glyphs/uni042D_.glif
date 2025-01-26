@@ -24,8 +24,8 @@
       <point x="83" y="589" type="line"/>
       <point x="83" y="558" type="line"/>
       <point x="52" y="558" type="line"/>
-      <point x="52" y="464" type="line"/>
-      <point x="145" y="464" type="line"/>
+      <point x="52" y="465" type="line"/>
+      <point x="145" y="465" type="line"/>
       <point x="145" y="527" type="line"/>
       <point x="176" y="527" type="line"/>
       <point x="176" y="558" type="line"/>
@@ -42,8 +42,8 @@
       <point x="176" y="62" type="line"/>
       <point x="176" y="93" type="line"/>
       <point x="145" y="93" type="line"/>
-      <point x="145" y="156" type="line"/>
-      <point x="52" y="156" type="line"/>
+      <point x="145" y="155" type="line"/>
+      <point x="52" y="155" type="line"/>
     </contour>
   </outline>
 </glyph>

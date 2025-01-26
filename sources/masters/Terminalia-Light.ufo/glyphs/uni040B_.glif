@@ -2,4 +2,30 @@
 <glyph name="uni040B" format="2">
   <advance width="500"/>
   <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="135" y="0" type="line"/>
+      <point x="197" y="0" type="line"/>
+      <point x="197" y="558" type="line"/>
+      <point x="352" y="558" type="line"/>
+      <point x="352" y="620" type="line"/>
+      <point x="20" y="620" type="line"/>
+      <point x="20" y="558" type="line"/>
+      <point x="135" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="166.604" y="308" type="line"/>
+      <point x="386.604" y="308" type="line"/>
+      <point x="386.604" y="277" type="line"/>
+      <point x="417.604" y="277" type="line"/>
+      <point x="417.604" y="0" type="line"/>
+      <point x="479.604" y="0" type="line"/>
+      <point x="479.604" y="308" type="line"/>
+      <point x="448.604" y="308" type="line"/>
+      <point x="448.604" y="339" type="line"/>
+      <point x="417.604" y="339" type="line"/>
+      <point x="417.604" y="370" type="line"/>
+      <point x="166.604" y="370" type="line"/>
+    </contour>
+  </outline>
 </glyph>

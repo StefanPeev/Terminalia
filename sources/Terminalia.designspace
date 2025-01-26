@@ -20,11 +20,6 @@
     <dimension xvalue="300" name="weight"/>
    </location>
   </source>
-  <source stylename="Regular" filename="masters/Terminalia-Medium.ufo" familyname="Terminalia" name="Medium">
-   <location>
-    <dimension xvalue="500" name="weight"/>
-   </location>
-  </source>
  </sources>
  <instances>
   <instance stylename="Light" filename="instances/Terminalia-Light.ufo" familyname="Terminalia" name="Light">

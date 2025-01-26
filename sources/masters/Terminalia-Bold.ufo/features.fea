@@ -53,3 +53,34 @@ feature ss01 {
   lookup cyrl_DFLT_locl_BGR;
 #< feature
 } ss01;
+feature ordn {
+# Ordinals
+
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by uni2116;
+#< feature
+} ordn;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature sups {
+# Superscript
+
+#> feature
+  sub n by uni207F;
+  sub one by uni00B9;
+  sub three by uni00B3;
+  sub two by uni00B2;
+#< feature
+} sups;

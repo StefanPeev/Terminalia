@@ -2,4 +2,36 @@
 <glyph name="uni0452" format="2">
   <advance width="500"/>
   <unicode hex="0452"/>
+  <outline>
+    <contour>
+      <point x="109" y="308" type="line"/>
+      <point x="372" y="308" type="line"/>
+      <point x="372" y="-78" type="line"/>
+      <point x="310" y="-78" type="line"/>
+      <point x="310" y="-140" type="line"/>
+      <point x="372" y="-140" type="line"/>
+      <point x="372" y="-109" type="line"/>
+      <point x="403" y="-109" type="line"/>
+      <point x="403" y="-78" type="line"/>
+      <point x="434" y="-78" type="line"/>
+      <point x="434" y="308" type="line"/>
+      <point x="403" y="308" type="line"/>
+      <point x="403" y="339" type="line"/>
+      <point x="372" y="339" type="line"/>
+      <point x="372" y="370" type="line"/>
+      <point x="109" y="370" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="620" type="line"/>
+      <point x="62" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="496.185" type="line"/>
+      <point x="310" y="496.185" type="line"/>
+      <point x="310" y="558.185" type="line"/>
+      <point x="0" y="558.185" type="line"/>
+    </contour>
+  </outline>
 </glyph>

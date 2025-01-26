@@ -12,10 +12,10 @@
       <point x="12" y="434" type="line"/>
     </contour>
     <contour>
+      <point x="331" y="-0.0078125" type="line"/>
       <point x="424" y="0" type="line"/>
       <point x="424" y="434" type="line"/>
       <point x="331" y="434" type="line"/>
-      <point x="331" y="-0.0078125" type="line"/>
     </contour>
     <contour>
       <point x="401.053" y="-144.057" type="line"/>
@@ -30,10 +30,10 @@
       <point x="323.219" y="62.0587" type="line"/>
     </contour>
     <contour>
+      <point x="171.5" y="-0.0078125" type="line"/>
       <point x="264.5" y="0" type="line"/>
       <point x="264.5" y="434" type="line"/>
       <point x="171.5" y="434" type="line"/>
-      <point x="171.5" y="-0.0078125" type="line"/>
     </contour>
   </outline>
 </glyph>

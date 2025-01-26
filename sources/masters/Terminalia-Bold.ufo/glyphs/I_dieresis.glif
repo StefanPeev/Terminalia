@@ -4,6 +4,7 @@
   <unicode hex="00CF"/>
   <anchor x="250" y="-31" name="bottom"/>
   <anchor x="250" y="690" name="t.macron"/>
+  <anchor x="266" y="0" name="b.ogonek"/>
   <outline>
     <component base="I"/>
     <component base="uni0308" xOffset="250" yOffset="124"/>

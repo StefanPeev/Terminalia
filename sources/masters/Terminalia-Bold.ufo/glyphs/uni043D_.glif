@@ -4,34 +4,34 @@
   <unicode hex="043D"/>
   <outline>
     <contour>
-      <point x="341" y="199" type="line"/>
-      <point x="434" y="199" type="line"/>
-      <point x="434" y="0" type="line"/>
       <point x="341" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="199" type="line"/>
-      <point x="155" y="199" type="line"/>
-      <point x="155" y="0" type="line"/>
-      <point x="62" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="341" y="434" type="line"/>
-      <point x="434" y="434" type="line"/>
-      <point x="434" y="261" type="line"/>
-      <point x="341" y="261" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="434" type="line"/>
-      <point x="155" y="434" type="line"/>
-      <point x="155" y="261" type="line"/>
-      <point x="62" y="261" type="line"/>
-    </contour>
-    <contour>
-      <point x="62" y="261" type="line"/>
-      <point x="434" y="261" type="line"/>
+      <point x="434" y="0" type="line"/>
       <point x="434" y="199" type="line"/>
+      <point x="341" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="155" y="199" type="line"/>
       <point x="62" y="199" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="261" type="line"/>
+      <point x="434" y="261" type="line"/>
+      <point x="434" y="434" type="line"/>
+      <point x="341" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="261" type="line"/>
+      <point x="155" y="261" type="line"/>
+      <point x="155" y="434" type="line"/>
+      <point x="62" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="199" type="line"/>
+      <point x="434" y="199" type="line"/>
+      <point x="434" y="261" type="line"/>
+      <point x="62" y="261" type="line"/>
     </contour>
   </outline>
 </glyph>

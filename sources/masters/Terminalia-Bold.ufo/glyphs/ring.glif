@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ring" format="2">
+  <advance width="500"/>
+  <unicode hex="02DA"/>
+  <outline>
+    <contour>
+      <point x="140" y="558" type="line"/>
+      <point x="171" y="558" type="line"/>
+      <point x="171" y="527" type="line"/>
+      <point x="329" y="527" type="line"/>
+      <point x="329" y="558" type="line"/>
+      <point x="360" y="558" type="line"/>
+      <point x="360" y="651" type="line"/>
+      <point x="329" y="651" type="line"/>
+      <point x="329" y="682" type="line"/>
+      <point x="171" y="682" type="line"/>
+      <point x="171" y="651" type="line"/>
+      <point x="140" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="233" y="558" type="line"/>
+      <point x="233" y="651" type="line"/>
+      <point x="267" y="651" type="line"/>
+      <point x="267" y="558" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni030A</string>
+  </dict>
+  </lib>
+</glyph>

@@ -2,18 +2,23 @@
 <glyph name="T" format="2">
   <advance width="500"/>
   <unicode hex="0054"/>
-  <anchor x="248" y="0" name="cedilla"/>
-  <anchor x="248" y="-31" name="bottom"/>
+  <anchor x="250" y="0" name="cedilla"/>
+  <anchor x="250" y="-31" name="bottom"/>
+  <anchor x="250" y="651" name="top"/>
   <outline>
     <contour>
-      <point x="217" y="0" type="line"/>
-      <point x="279" y="0" type="line"/>
-      <point x="279" y="558" type="line"/>
-      <point x="434" y="558" type="line"/>
-      <point x="434" y="620" type="line"/>
-      <point x="62" y="620" type="line"/>
-      <point x="62" y="558" type="line"/>
-      <point x="217" y="558" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="558" type="line"/>
+      <point x="436" y="558" type="line"/>
+      <point x="436" y="620" type="line"/>
+      <point x="64" y="620" type="line"/>
+      <point x="64" y="558" type="line"/>
+      <point x="219" y="558" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="64" y="0"/>
+  <guideline angle="90" x="436" y="0"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="0" x="0" y="651"/>
 </glyph>

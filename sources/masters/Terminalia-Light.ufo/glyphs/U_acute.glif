@@ -3,6 +3,8 @@
   <advance width="500"/>
   <unicode hex="00DA"/>
   <anchor x="248" y="690" name="t.macron"/>
+  <anchor x="248" y="620" name="t.ring"/>
+  <anchor x="294" y="0" name="b.ogonek"/>
   <outline>
     <component base="U"/>
     <component base="uni0301" xOffset="310" yOffset="124"/>

@@ -3,35 +3,17 @@
   <advance width="500"/>
   <unicode hex="012F"/>
   <outline>
-    <contour>
-      <point x="217" y="496" type="line"/>
-      <point x="279" y="496" type="line"/>
-      <point x="279" y="620" type="line"/>
-      <point x="217" y="620" type="line"/>
-    </contour>
-    <contour>
-      <point x="155" y="0" type="line"/>
-      <point x="217" y="0" type="line"/>
-      <point x="217" y="-31" type="line"/>
-      <point x="186" y="-31" type="line"/>
-      <point x="186" y="-124" type="line"/>
-      <point x="217" y="-124" type="line"/>
-      <point x="217" y="-155" type="line"/>
-      <point x="341" y="-155" type="line"/>
-      <point x="341" y="-93" type="line"/>
-      <point x="248" y="-93" type="line"/>
-      <point x="248" y="-62" type="line"/>
-      <point x="279" y="-62" type="line"/>
-      <point x="279" y="0" type="line"/>
-      <point x="341" y="0" type="line"/>
-      <point x="341" y="62" type="line"/>
-      <point x="279" y="62" type="line"/>
-      <point x="279" y="434" type="line"/>
-      <point x="155" y="434" type="line"/>
-      <point x="155" y="372" type="line"/>
-      <point x="217" y="372" type="line"/>
-      <point x="217" y="62" type="line"/>
-      <point x="155" y="62" type="line"/>
-    </contour>
+    <component base="i"/>
+    <component base="uni0328" xOffset="263"/>
   </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>i+uni0328</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

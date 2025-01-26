@@ -2,4 +2,38 @@
 <glyph name="uni0402" format="2">
   <advance width="500"/>
   <unicode hex="0402"/>
+  <outline>
+    <contour>
+      <point x="304.028" y="0" type="line"/>
+      <point x="427.84" y="0" type="line"/>
+      <point x="427.84" y="31" type="line"/>
+      <point x="458.84" y="31" type="line"/>
+      <point x="458.84" y="62" type="line"/>
+      <point x="489.84" y="62" type="line"/>
+      <point x="489.84" y="308" type="line"/>
+      <point x="458.84" y="308" type="line"/>
+      <point x="458.84" y="339" type="line"/>
+      <point x="427.84" y="339" type="line"/>
+      <point x="427.84" y="370" type="line"/>
+      <point x="188.84" y="370" type="line"/>
+      <point x="188.84" y="308" type="line"/>
+      <point x="365.84" y="308" type="line"/>
+      <point x="365.84" y="277" type="line"/>
+      <point x="396.84" y="277" type="line"/>
+      <point x="396.84" y="93" type="line"/>
+      <point x="365.84" y="93" type="line"/>
+      <point x="365.84" y="62" type="line"/>
+      <point x="304.028" y="62" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="0" type="line"/>
+      <point x="218" y="0" type="line"/>
+      <point x="218" y="558" type="line"/>
+      <point x="373" y="558" type="line"/>
+      <point x="373" y="620" type="line"/>
+      <point x="10" y="620" type="line"/>
+      <point x="10" y="558" type="line"/>
+      <point x="125" y="558" type="line"/>
+    </contour>
+  </outline>
 </glyph>

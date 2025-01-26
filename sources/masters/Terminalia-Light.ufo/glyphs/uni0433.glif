@@ -2,18 +2,23 @@
 <glyph name="uni0433" format="2">
   <advance width="500"/>
   <unicode hex="0433"/>
+  <anchor x="248" y="496" name="top"/>
   <outline>
     <contour>
-      <point x="62" y="434" type="line"/>
-      <point x="124" y="434" type="line"/>
-      <point x="124" y="0" type="line"/>
       <point x="62" y="0" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="124" y="434" type="line"/>
+      <point x="62" y="434" type="line"/>
     </contour>
     <contour>
-      <point x="62" y="434" type="line"/>
-      <point x="434" y="434" type="line"/>
-      <point x="434" y="372" type="line"/>
       <point x="62" y="372" type="line"/>
+      <point x="434" y="372" type="line"/>
+      <point x="434" y="434" type="line"/>
+      <point x="62" y="434" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="62" y="0"/>
+  <guideline angle="90" x="434" y="0"/>
+  <guideline angle="0" x="0" y="496"/>
+  <guideline angle="90" x="248" y="0"/>
 </glyph>

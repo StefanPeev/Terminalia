@@ -4,40 +4,40 @@
   <unicode hex="0431"/>
   <outline>
     <contour>
-      <point x="116" y="624" type="line"/>
-      <point x="384" y="624" type="line"/>
-      <point x="384" y="562" type="line"/>
       <point x="85" y="562" type="line"/>
-      <point x="85" y="593" type="line"/>
+      <point x="384" y="562" type="line"/>
+      <point x="384" y="624" type="line"/>
+      <point x="116" y="624" type="line"/>
       <point x="116" y="593" type="line"/>
+      <point x="85" y="593" type="line"/>
     </contour>
     <contour>
-      <point x="54" y="434" type="line"/>
-      <point x="384" y="434" type="line"/>
-      <point x="384" y="403" type="line"/>
-      <point x="415" y="403" type="line"/>
-      <point x="415" y="372" type="line"/>
       <point x="54" y="372" type="line"/>
+      <point x="415" y="372" type="line"/>
+      <point x="415" y="403" type="line"/>
+      <point x="384" y="403" type="line"/>
+      <point x="384" y="434" type="line"/>
+      <point x="54" y="434" type="line"/>
     </contour>
     <contour>
+      <point x="54" y="62" type="line"/>
       <point x="147" y="62" type="line"/>
-      <point x="54" y="62" type="line"/>
-      <point x="54" y="562" type="line"/>
       <point x="147" y="562" type="line"/>
+      <point x="54" y="562" type="line"/>
     </contour>
     <contour>
-      <point x="54" y="62" type="line"/>
-      <point x="415" y="62" type="line"/>
-      <point x="415" y="31" type="line"/>
-      <point x="384" y="31" type="line"/>
-      <point x="384" y="0" type="line"/>
       <point x="54" y="0" type="line"/>
+      <point x="384" y="0" type="line"/>
+      <point x="384" y="31" type="line"/>
+      <point x="415" y="31" type="line"/>
+      <point x="415" y="62" type="line"/>
+      <point x="54" y="62" type="line"/>
     </contour>
     <contour>
-      <point x="446" y="62" type="line"/>
       <point x="353" y="62" type="line"/>
-      <point x="353" y="372" type="line"/>
+      <point x="446" y="62" type="line"/>
       <point x="446" y="372" type="line"/>
+      <point x="353" y="372" type="line"/>
     </contour>
   </outline>
 </glyph>
