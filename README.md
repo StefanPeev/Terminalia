@@ -1,4 +1,4 @@
-![Sample Image](/images/Terminalia_01.png)
+![Sample Image](/images/Terminalia_v.1.004.gif)
 
 Terminalia
 ============
