@@ -3,7 +3,7 @@ Terminalia
   
 Tasks to be done  
 ----------------    
-Solve any inconsistency in the use of the diacritics.  
+[x] Solve any inconsistency in the use of the diacritics.  
   
 Fontlog
 ----------------  
