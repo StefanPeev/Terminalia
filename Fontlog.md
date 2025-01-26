@@ -6,7 +6,7 @@ Tasks to be done
 - [x] Solve any inconsistency in the use of the diacritics. 
 - [x] Create [Basic Cyrillic](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Cyrillic/Cyrillic.md#basic-cyrillic-alphabet-unicode-range-0410--044f). 
 - [ ] Create [Extended Cyrillic](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Cyrillic/Cyrillic.md#extcyr).
-- [] Create [Cyrillic Historic letters](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Cyrillic/Cyrillic.md#historic-letters-uncode-range-0460--0481-arrows_counterclockwise).
+- [ ] Create [Cyrillic Historic letters](https://github.com/StefanPeev/Common-Serif/blob/main/documentation/Cyrillic/Cyrillic.md#historic-letters-uncode-range-0460--0481-arrows_counterclockwise).
   
 Fontlog
 ----------------  
