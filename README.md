@@ -1,7 +1,7 @@
 ![Sample Image](/images/Terminalia_v.1.004.gif)
 
 Terminalia
-============
+============  
 
 The Terminalia project is inspired by [Terminus Font](https://terminus-font.sourceforge.net/).  
 Read more about Terminus font here:  
