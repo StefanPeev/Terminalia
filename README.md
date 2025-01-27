@@ -17,6 +17,7 @@ Other projects inspired by the Terminus project:
 - [Terminus](https://github.com/chrissimpkins/codeface/tree/master/fonts/terminus)  
 - [Terminus TTF v.4.49.3](https://www.ax86.net/2023/04/28/terminus-ttf-4493-released/)
 - [TerminusV Variable Width Bitmap Font](https://dt.iki.fi/terminusv)
+- [Lerminus](https://github.com/kisonecat/lerminus)
   
 The project Terminalia is in its beginning. Any contributions are well-come and highly appreciated.  
   
