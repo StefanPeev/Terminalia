@@ -13,7 +13,7 @@ Fontlog
 ----------------  
 **Terminalia v.1.008**  
   
-New glyphs: **`Ӣ ӣ Ө ө Ӯ ӯ ‐ ‑ ‒ – — ― ‖ ‗ ‘ ’ ‚ “ ” „ • … ‰ ‹ › ‼ € ₮ Ω ← ↑ → ↓ ↔ ↕ ↨ ↵ ≈ ≠ ≡ ≢ ≣ ≤ ≥ ⌂ ─ │`** are correctly set as combining glyphs.    
+New glyphs: **`Ӣ ӣ Ө ө Ӯ ӯ ‐ ‑ ‒ – — ― ‖ ‗ ‘ ’ ‚ “ ” „ • … ‰ ‹ › ‼ € ₮ Ω ← ↑ → ↓ ↔ ↕ ↨ ↵ ≈ ≠ ≡ ≢ ≣ ≤ ≥ ⌂ ─ │`**.    
   
 **Terminalia v.1.004**  
   
