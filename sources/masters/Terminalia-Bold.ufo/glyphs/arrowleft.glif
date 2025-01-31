@@ -2,4 +2,17 @@
 <glyph name="arrowleft" format="2">
   <advance width="500"/>
   <unicode hex="2190"/>
+  <outline>
+    <contour>
+      <point x="64" y="279" type="line"/>
+      <point x="490.101" y="279" type="line"/>
+      <point x="490.101" y="341" type="line"/>
+      <point x="64" y="341" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.596" y="222" type="line"/>
+      <point x="162.596" y="398" type="line"/>
+      <point x="10" y="310" type="line"/>
+    </contour>
+  </outline>
 </glyph>

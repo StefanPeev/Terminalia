@@ -2,4 +2,47 @@
 <glyph name="uni20AE" format="2">
   <advance width="500"/>
   <unicode hex="20AE"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="126" y="72" type="line"/>
+      <point x="188" y="72" type="line"/>
+      <point x="188" y="134" type="line"/>
+      <point x="219" y="134" type="line"/>
+      <point x="219" y="196" type="line"/>
+      <point x="157" y="196" type="line"/>
+      <point x="157" y="134" type="line"/>
+      <point x="126" y="134" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="196" type="line"/>
+      <point x="343" y="196" type="line"/>
+      <point x="343" y="258" type="line"/>
+      <point x="374" y="258" type="line"/>
+      <point x="374" y="320" type="line"/>
+      <point x="312" y="320" type="line"/>
+      <point x="312" y="258" type="line"/>
+      <point x="281" y="258" type="line"/>
+    </contour>
+    <contour>
+      <point x="126" y="236" type="line"/>
+      <point x="188" y="236" type="line"/>
+      <point x="188" y="298" type="line"/>
+      <point x="219" y="298" type="line"/>
+      <point x="219" y="360" type="line"/>
+      <point x="157" y="360" type="line"/>
+      <point x="157" y="298" type="line"/>
+      <point x="126" y="298" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="360" type="line"/>
+      <point x="343" y="360" type="line"/>
+      <point x="343" y="422" type="line"/>
+      <point x="374" y="422" type="line"/>
+      <point x="374" y="484" type="line"/>
+      <point x="312" y="484" type="line"/>
+      <point x="312" y="422" type="line"/>
+      <point x="281" y="422" type="line"/>
+    </contour>
+  </outline>
 </glyph>

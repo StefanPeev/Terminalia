@@ -3,7 +3,7 @@
   <unicode hex="0304"/>
   <anchor x="0" y="527" name="_t.macron"/>
   <outline>
-    <component base="macron" xOffset="-250" yOffset="-2.27374e-13"/>
+    <component base="macron" xOffset="-250"/>
   </outline>
   <guideline angle="0" x="0" y="527"/>
 </glyph>

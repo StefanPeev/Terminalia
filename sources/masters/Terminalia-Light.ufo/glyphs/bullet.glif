@@ -2,4 +2,28 @@
 <glyph name="bullet" format="2">
   <advance width="500"/>
   <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="80" y="132.064" type="line"/>
+      <point x="111" y="132.064" type="line"/>
+      <point x="111" y="101.064" type="line"/>
+      <point x="142" y="101.064" type="line"/>
+      <point x="142" y="70.0639" type="line"/>
+      <point x="358" y="70.0639" type="line"/>
+      <point x="358" y="101.064" type="line"/>
+      <point x="389" y="101.064" type="line"/>
+      <point x="389" y="132.064" type="line"/>
+      <point x="420" y="132.064" type="line"/>
+      <point x="420" y="349.064" type="line"/>
+      <point x="389" y="349.064" type="line"/>
+      <point x="389" y="380.064" type="line"/>
+      <point x="358" y="380.064" type="line"/>
+      <point x="358" y="411.064" type="line"/>
+      <point x="142" y="411.064" type="line"/>
+      <point x="142" y="380.064" type="line"/>
+      <point x="111" y="380.064" type="line"/>
+      <point x="111" y="349.064" type="line"/>
+      <point x="80" y="349.064" type="line"/>
+    </contour>
+  </outline>
 </glyph>

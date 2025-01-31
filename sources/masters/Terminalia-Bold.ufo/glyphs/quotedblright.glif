@@ -2,4 +2,9 @@
 <glyph name="quotedblright" format="2">
   <advance width="500"/>
   <unicode hex="201D"/>
+  <outline>
+    <component base="quoteright" xOffset="-99.8025" yOffset="-0.185472"/>
+    <component base="quoteright" xOffset="100.19" yOffset="-0.185472"/>
+  </outline>
+  <guideline angle="0" x="0" y="734"/>
 </glyph>

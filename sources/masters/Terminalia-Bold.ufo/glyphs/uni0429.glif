@@ -12,7 +12,7 @@
       <point x="13" y="620" type="line"/>
     </contour>
     <contour>
-      <point x="331" y="-0.0078125" type="line"/>
+      <point x="331" y="-0.0078" type="line"/>
       <point x="424" y="0" type="line"/>
       <point x="424" y="620" type="line"/>
       <point x="331" y="620" type="line"/>
@@ -30,7 +30,7 @@
       <point x="323.219" y="62.0587" type="line"/>
     </contour>
     <contour>
-      <point x="171.5" y="-0.0078125" type="line"/>
+      <point x="171.5" y="-0.0078" type="line"/>
       <point x="264.5" y="0" type="line"/>
       <point x="264.5" y="620" type="line"/>
       <point x="171.5" y="620" type="line"/>

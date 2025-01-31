@@ -2,4 +2,8 @@
 <glyph name="quotedblbase" format="2">
   <advance width="500"/>
   <unicode hex="201E"/>
+  <outline>
+    <component base="quotesinglbase" xOffset="-99.8118" yOffset="2.27374e-13"/>
+    <component base="quotesinglbase" xOffset="100.188" yOffset="2.27374e-13"/>
+  </outline>
 </glyph>

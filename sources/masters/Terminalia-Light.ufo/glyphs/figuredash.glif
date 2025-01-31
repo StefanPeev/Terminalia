@@ -2,4 +2,12 @@
 <glyph name="figuredash" format="2">
   <advance width="500"/>
   <unicode hex="2012"/>
+  <outline>
+    <contour>
+      <point x="84" y="279" type="line"/>
+      <point x="416" y="279" type="line"/>
+      <point x="416" y="341" type="line"/>
+      <point x="84" y="341" type="line"/>
+    </contour>
+  </outline>
 </glyph>

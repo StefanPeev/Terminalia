@@ -2,4 +2,18 @@
 <glyph name="underscoredbl" format="2">
   <advance width="500"/>
   <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="62" y="-112.353" type="line"/>
+      <point x="434" y="-112.353" type="line"/>
+      <point x="434" y="-50.3534" type="line"/>
+      <point x="62" y="-50.3534" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="-238.353" type="line"/>
+      <point x="434" y="-238.353" type="line"/>
+      <point x="434" y="-176.353" type="line"/>
+      <point x="62" y="-176.353" type="line"/>
+    </contour>
+  </outline>
 </glyph>

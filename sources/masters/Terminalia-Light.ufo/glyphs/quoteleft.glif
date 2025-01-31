@@ -2,4 +2,33 @@
 <glyph name="quoteleft" format="2">
   <advance width="500"/>
   <unicode hex="2018"/>
+  <outline>
+    <contour>
+      <point x="187" y="486.842" type="line"/>
+      <point x="249" y="486.842" type="line"/>
+      <point x="249" y="632.754" type="line"/>
+      <point x="226.6" y="620.354" type="line"/>
+      <point x="270" y="620.354" type="line"/>
+      <point x="270" y="663.754" type="line"/>
+      <point x="257.6" y="651.354" type="line"/>
+      <point x="291" y="651.354" type="line"/>
+      <point x="291" y="681.876" type="line"/>
+      <point x="312.406" y="681.876" type="line"/>
+      <point x="312.406" y="734.354" type="line"/>
+      <point x="250" y="734.354" type="line"/>
+      <point x="250" y="703.354" type="line"/>
+      <point x="229" y="703.354" type="line"/>
+      <point x="229" y="672.354" type="line"/>
+      <point x="208" y="672.354" type="line"/>
+      <point x="208" y="641.354" type="line"/>
+      <point x="187" y="641.354" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="660"/>
+  <guideline angle="0" x="0" y="629"/>
+  <guideline angle="0" x="0" y="722"/>
+  <guideline angle="0" x="0" y="487"/>
+  <guideline angle="90" x="187" y="0"/>
+  <guideline angle="90" x="249" y="0"/>
+  <guideline angle="0" x="0" y="734"/>
 </glyph>

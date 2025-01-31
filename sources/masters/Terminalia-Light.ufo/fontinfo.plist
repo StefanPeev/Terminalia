@@ -68,7 +68,7 @@ Copyright [C] 2025 Stefan Peev under the terms of the SIL OPEN FONT LICENSE Vers
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.004</string>
+  <string>Version 1.008</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -266,7 +266,7 @@ Copyright [C] 2025 Stefan Peev under the terms of the SIL OPEN FONT LICENSE Vers
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>4</integer>
+  <integer>8</integer>
   <key>xHeight</key>
   <integer>434</integer>
 </dict>

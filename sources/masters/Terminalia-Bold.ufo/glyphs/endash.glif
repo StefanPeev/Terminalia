@@ -2,4 +2,12 @@
 <glyph name="endash" format="2">
   <advance width="500"/>
   <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="38" y="279" type="line"/>
+      <point x="462" y="279" type="line"/>
+      <point x="462" y="341" type="line"/>
+      <point x="38" y="341" type="line"/>
+    </contour>
+  </outline>
 </glyph>

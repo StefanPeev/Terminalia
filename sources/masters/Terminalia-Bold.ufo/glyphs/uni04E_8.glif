@@ -2,4 +2,37 @@
 <glyph name="uni04E8" format="2">
   <advance width="500"/>
   <unicode hex="04E8"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="49" y="227.784" type="line"/>
+      <point x="142" y="227.784" type="line"/>
+      <point x="142" y="351.784" type="line"/>
+      <point x="204" y="351.784" type="line"/>
+      <point x="204" y="289.784" type="line"/>
+      <point x="235" y="289.784" type="line"/>
+      <point x="235" y="258.784" type="line"/>
+      <point x="266" y="258.784" type="line"/>
+      <point x="266" y="227.784" type="line"/>
+      <point x="390" y="227.784" type="line"/>
+      <point x="390" y="258.784" type="line"/>
+      <point x="421" y="258.784" type="line"/>
+      <point x="421" y="289.784" type="line"/>
+      <point x="452" y="289.784" type="line"/>
+      <point x="452" y="413.784" type="line"/>
+      <point x="359" y="413.784" type="line"/>
+      <point x="359" y="289.784" type="line"/>
+      <point x="297" y="289.784" type="line"/>
+      <point x="297" y="351.784" type="line"/>
+      <point x="266" y="351.784" type="line"/>
+      <point x="266" y="382.784" type="line"/>
+      <point x="235" y="382.784" type="line"/>
+      <point x="235" y="413.784" type="line"/>
+      <point x="111" y="413.784" type="line"/>
+      <point x="111" y="382.784" type="line"/>
+      <point x="80" y="382.784" type="line"/>
+      <point x="80" y="351.784" type="line"/>
+      <point x="49" y="351.784" type="line"/>
+    </contour>
+  </outline>
 </glyph>

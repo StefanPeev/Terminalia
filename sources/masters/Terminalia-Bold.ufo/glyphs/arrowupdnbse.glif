@@ -2,4 +2,28 @@
 <glyph name="arrowupdnbse" format="2">
   <advance width="500"/>
   <unicode hex="21A8"/>
+  <outline>
+    <contour>
+      <point x="219.05" y="566" type="line"/>
+      <point x="219.05" y="54" type="line"/>
+      <point x="281.05" y="54" type="line"/>
+      <point x="281.05" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.05" y="467.404" type="line"/>
+      <point x="338.05" y="467.404" type="line"/>
+      <point x="250.05" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.05" y="152.596" type="line"/>
+      <point x="250.05" y="0" type="line"/>
+      <point x="338.05" y="152.596" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.8059" y="-62" type="line"/>
+      <point x="462.907" y="-62" type="line"/>
+      <point x="462.907" y="0" type="line"/>
+      <point x="36.8059" y="0" type="line"/>
+    </contour>
+  </outline>
 </glyph>

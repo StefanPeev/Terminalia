@@ -2,4 +2,17 @@
 <glyph name="arrowdown" format="2">
   <advance width="500"/>
   <unicode hex="2193"/>
+  <outline>
+    <contour>
+      <point x="219.05" y="54" type="line"/>
+      <point x="281.05" y="54" type="line"/>
+      <point x="281.05" y="712.596" type="line"/>
+      <point x="219.05" y="712.596" type="line"/>
+    </contour>
+    <contour>
+      <point x="162.05" y="152.596" type="line"/>
+      <point x="250.05" y="0" type="line"/>
+      <point x="338.05" y="152.596" type="line"/>
+    </contour>
+  </outline>
 </glyph>

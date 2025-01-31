@@ -2,4 +2,11 @@
 <glyph name="triagdn" format="2">
   <advance width="500"/>
   <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="438" y="380" type="line"/>
+      <point x="62" y="380" type="line"/>
+      <point x="250" y="54" type="line"/>
+    </contour>
+  </outline>
 </glyph>

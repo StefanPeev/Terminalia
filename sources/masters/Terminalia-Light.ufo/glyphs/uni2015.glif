@@ -2,4 +2,12 @@
 <glyph name="uni2015" format="2">
   <advance width="500"/>
   <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="4" y="279" type="line"/>
+      <point x="496" y="279" type="line"/>
+      <point x="496" y="341" type="line"/>
+      <point x="4" y="341" type="line"/>
+    </contour>
+  </outline>
 </glyph>

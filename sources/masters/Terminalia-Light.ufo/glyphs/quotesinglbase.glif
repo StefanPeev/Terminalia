@@ -2,4 +2,7 @@
 <glyph name="quotesinglbase" format="2">
   <advance width="500"/>
   <unicode hex="201A"/>
+  <outline>
+    <component base="quoteright" xOffset="-0.405924" yOffset="-634.005"/>
+  </outline>
 </glyph>

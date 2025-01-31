@@ -2,4 +2,12 @@
 <glyph name="minus" format="2">
   <advance width="500"/>
   <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="54" y="279" type="line"/>
+      <point x="446" y="279" type="line"/>
+      <point x="446" y="341" type="line"/>
+      <point x="54" y="341" type="line"/>
+    </contour>
+  </outline>
 </glyph>

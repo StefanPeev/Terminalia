@@ -11,6 +11,10 @@ Tasks to be done
   
 Fontlog
 ----------------  
+**Terminalia v.1.008**  
+  
+New glyphs: **`Ӣ ӣ Ө ө Ӯ ӯ ‐ ‑ ‒ – — ― ‖ ‗ ‘ ’ ‚ “ ” „ • … ‰ ‹ › ‼ € ₮ Ω ← ↑ → ↓ ↔ ↕ ↨ ↵ ≈ ≠ ≡ ≢ ≣ ≤ ≥ ⌂ ─ │`** are correctly set as combining glyphs.    
+  
 **Terminalia v.1.004**  
   
 All diacritics in the range **` Agrave (uni00C0) : uni021B `** are correctly set as combining glyphs.  

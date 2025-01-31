@@ -2,4 +2,11 @@
 <glyph name="uni25C0" format="2">
   <advance width="500"/>
   <unicode hex="25C0"/>
+  <outline>
+    <contour>
+      <point x="428" y="29" type="line"/>
+      <point x="428" y="405" type="line"/>
+      <point x="102" y="217" type="line"/>
+    </contour>
+  </outline>
 </glyph>
