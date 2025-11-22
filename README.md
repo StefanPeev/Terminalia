@@ -56,6 +56,7 @@ Projects using Terminalia
 
 Have you made something nice with Terminalia?  
 [Please share it in Discussions panel "Show and tell"! →](https://github.com/StefanPeev/Terminalia/discussions/categories/show-and-tell).  
+
 Localfonts projects
 -------------------
   
