@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni031B" format="2">
   <unicode hex="031B"/>
+  <anchor x="-109" y="527" name="_horn"/>
+  <outline>
+    <contour>
+      <point x="-108.996" y="527.008" type="line"/>
+      <point x="-15.9962" y="527.008" type="line"/>
+      <point x="-15.9962" y="558.008" type="line"/>
+      <point x="15.0038" y="558.008" type="line"/>
+      <point x="15.0038" y="589.008" type="line"/>
+      <point x="46.0038" y="589.008" type="line"/>
+      <point x="46.0038" y="682.008" type="line"/>
+      <point x="-46.9962" y="682.008" type="line"/>
+      <point x="-46.9962" y="589.008" type="line"/>
+      <point x="-77.9962" y="589.008" type="line"/>
+      <point x="-77.9962" y="558.008" type="line"/>
+      <point x="-108.996" y="558.008" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="527"/>
 </glyph>

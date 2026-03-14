@@ -2,37 +2,17 @@
 <glyph name="uni04E9" format="2">
   <advance width="500"/>
   <unicode hex="04E9"/>
+  <anchor x="248" y="496" name="top"/>
+  <anchor x="248" y="504" name="t.macron"/>
+  <anchor x="434" y="341" name="horn"/>
+  <anchor x="248" y="-31" name="bottom"/>
   <outline>
     <component base="o"/>
     <contour>
-      <point x="62" y="115.784" type="line"/>
-      <point x="124" y="115.784" type="line"/>
-      <point x="124" y="239.784" type="line"/>
-      <point x="204" y="239.784" type="line"/>
-      <point x="204" y="177.784" type="line"/>
-      <point x="235" y="177.784" type="line"/>
-      <point x="235" y="146.784" type="line"/>
-      <point x="266" y="146.784" type="line"/>
-      <point x="266" y="115.784" type="line"/>
-      <point x="372" y="115.784" type="line"/>
-      <point x="372" y="146.784" type="line"/>
-      <point x="403" y="146.784" type="line"/>
-      <point x="403" y="177.784" type="line"/>
-      <point x="434" y="177.784" type="line"/>
-      <point x="434" y="301.784" type="line"/>
-      <point x="372" y="301.784" type="line"/>
-      <point x="372" y="177.784" type="line"/>
-      <point x="297" y="177.784" type="line"/>
-      <point x="297" y="239.784" type="line"/>
-      <point x="266" y="239.784" type="line"/>
-      <point x="266" y="270.784" type="line"/>
-      <point x="235" y="270.784" type="line"/>
-      <point x="235" y="301.784" type="line"/>
-      <point x="124" y="301.784" type="line"/>
-      <point x="124" y="270.784" type="line"/>
-      <point x="93" y="270.784" type="line"/>
-      <point x="93" y="239.784" type="line"/>
-      <point x="62" y="239.784" type="line"/>
+      <point x="82" y="199" type="line"/>
+      <point x="414" y="199" type="line"/>
+      <point x="414" y="261" type="line"/>
+      <point x="82" y="261" type="line"/>
     </contour>
   </outline>
 </glyph>

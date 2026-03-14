@@ -2,4 +2,15 @@
 <glyph name="uni04D8" format="2">
   <advance width="500"/>
   <unicode hex="04D8"/>
+  <anchor x="251" y="651" name="top"/>
+  <anchor x="251" y="-31" name="bottom"/>
+  <outline>
+    <component base="Schwa"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Schwa</string>
+  </dict>
+  </lib>
 </glyph>

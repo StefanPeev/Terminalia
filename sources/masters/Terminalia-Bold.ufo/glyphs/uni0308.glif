@@ -3,7 +3,7 @@
   <unicode hex="0308"/>
   <anchor x="0" y="527" name="_top"/>
   <outline>
-    <component base="dieresis" xOffset="-250.5"/>
+    <component base="dieresis" xOffset="-249.997"/>
   </outline>
   <guideline angle="0" x="0" y="527"/>
 </glyph>

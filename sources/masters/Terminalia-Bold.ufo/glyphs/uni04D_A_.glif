@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04DA" format="2">
+  <advance width="500"/>
+  <unicode hex="04DA"/>
+  <anchor x="251" y="-31" name="bottom"/>
+  <outline>
+    <component base="uni04D8"/>
+    <component base="uni0308" xOffset="251" yOffset="124"/>
+  </outline>
+  <guideline angle="0" x="0" y="651"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>uni04D8+uni0308</string>
+  </dict>
+  </lib>
+</glyph>

@@ -108,8 +108,44 @@ languagesystem cyrl BGR;
 lookup cyrl_DFLT_locl_BGR {
 		sub @cyrl_DFLT by @locl_BGR;
 } cyrl_DFLT_locl_BGR;
+feature ss01 {
+# Stylistic Set 01–20
 
+#> feature
+  lookup cyrl_DFLT_locl_BGR;
+#< feature
+} ss01;
+feature ordn {
+# Ordinals
 
+#> feature
+  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+  sub N o period by uni2116;
+#< feature
+} ordn;
+feature frac {
+# Fractions
+
+#> feature
+lookup frac_precomposed {
+
+  sub one slash four by onequarter;
+  sub one slash two by onehalf;
+  sub three slash four by threequarters;
+} frac_precomposed;
+#< feature
+} frac;
+feature sups {
+# Superscript
+
+#> feature
+  sub n by uni207F;
+  sub one by uni00B9;
+  sub three by uni00B3;
+  sub two by uni00B2;
+#< feature
+} sups;
 feature locl {
 # Localized Forms
 
@@ -130,51 +166,8 @@ feature locl {
   sub scedilla by scommaaccent;
   sub uni0162 by uni021A;
   sub uni0163 by uni021B;
+
+  language TRK; # Turkish
+  sub i by i.loclTRK;
 #< feature
 } locl;
-
-
-feature ss01 {
-# Stylistic Set 01–20
-
-#> feature
-  lookup cyrl_DFLT_locl_BGR;
-#< feature
-} ss01;
-feature ordn {
-# Ordinals
-
-#> feature
-  sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
-  sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
-  sub N o period by uni2116;
-#< feature
-} ordn;
-
-
-feature frac {
-# Fractions
-
-#> feature
-lookup frac_precomposed {
-
-  sub one slash four by onequarter;
-  sub one slash two by onehalf;
-  sub three slash four by threequarters;
-} frac_precomposed;
-#< feature
-} frac;
-
-
-feature sups {
-# Superscript
-
-#> feature
-  sub n by uni207F;
-  sub one by uni00B9;
-  sub three by uni00B3;
-  sub two by uni00B2;
-#< feature
-} sups;
-
-

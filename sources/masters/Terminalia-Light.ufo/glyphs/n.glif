@@ -4,6 +4,7 @@
   <unicode hex="006E"/>
   <anchor x="248" y="496" name="top"/>
   <anchor x="248" y="-31" name="bottom"/>
+  <anchor x="62" y="434" name="apostrophe"/>
   <outline>
     <contour>
       <point x="62" y="0" type="line"/>

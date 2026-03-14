@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="2">
+  <advance width="500"/>
+  <unicode hex="0166"/>
+  <anchor x="249" y="0" name="cedilla"/>
+  <anchor x="250" y="-31" name="bottom"/>
+  <anchor x="250" y="651" name="top"/>
+  <outline>
+    <component base="T"/>
+    <contour>
+      <point x="80" y="267.715" type="line"/>
+      <point x="420" y="267.715" type="line"/>
+      <point x="420" y="329.715" type="line"/>
+      <point x="80" y="329.715" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="651"/>
+  <guideline angle="90" x="49" y="0"/>
+  <guideline angle="90" x="452" y="0"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="0" x="0" y="713"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>T+macron</string>
+  </dict>
+  </lib>
+</glyph>

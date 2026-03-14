@@ -24,6 +24,7 @@
       <point x="267" y="558" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="527"/>
   <lib>
   <dict>
   <key>com.fontlab.recipe</key>

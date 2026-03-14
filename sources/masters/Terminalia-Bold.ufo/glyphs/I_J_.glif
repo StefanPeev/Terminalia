@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="IJ" format="2">
+  <advance width="500"/>
+  <unicode hex="0132"/>
+  <outline>
+    <component base="I" xOffset="-194"/>
+    <contour>
+      <point x="179" y="62" type="line"/>
+      <point x="210" y="62" type="line"/>
+      <point x="210" y="31" type="line"/>
+      <point x="241" y="31" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="366" y="31" type="line"/>
+      <point x="397" y="31" type="line"/>
+      <point x="397" y="62" type="line"/>
+      <point x="428" y="62" type="line"/>
+      <point x="428" y="558" type="line"/>
+      <point x="490" y="558" type="line"/>
+      <point x="490" y="620" type="line"/>
+      <point x="273" y="620" type="line"/>
+      <point x="273" y="558" type="line"/>
+      <point x="335" y="558" type="line"/>
+      <point x="335" y="62" type="line"/>
+      <point x="272" y="62" type="line"/>
+      <point x="272" y="186" type="line"/>
+      <point x="179" y="186" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="651"/>
+  <guideline angle="90" x="-52" y="0"/>
+  <guideline angle="90" x="165" y="0"/>
+  <guideline angle="90" x="56" y="0"/>
+  <guideline angle="0" x="0" y="-31"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>I_J</string>
+  </dict>
+  </lib>
+</glyph>

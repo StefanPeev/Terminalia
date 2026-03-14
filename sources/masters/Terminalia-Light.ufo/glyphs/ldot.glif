@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="2">
+  <advance width="500"/>
+  <unicode hex="0140"/>
+  <anchor x="248" y="682" name="top"/>
+  <anchor x="248" y="-31" name="bottom"/>
+  <outline>
+    <component base="l"/>
+    <component base="periodcentered" xOffset="130" yOffset="65"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.autolayer</key>
+  <true/>
+  <key>com.fontlab.recipe</key>
+  <string>l+periodcentered</string>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>

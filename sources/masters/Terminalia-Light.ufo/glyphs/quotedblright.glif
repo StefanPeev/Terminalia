@@ -3,8 +3,8 @@
   <advance width="500"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="quoteright" xOffset="-79.4191" yOffset="-1.13687e-13"/>
-    <component base="quoteright" xOffset="79.5809" yOffset="1.13687e-13"/>
+    <component base="quoteright" xOffset="-79.4191"/>
+    <component base="quoteright" xOffset="79.5809"/>
   </outline>
   <guideline angle="90" x="233" y="0"/>
   <guideline angle="90" x="330" y="0"/>

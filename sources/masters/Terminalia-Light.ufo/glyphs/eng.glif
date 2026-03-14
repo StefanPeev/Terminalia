@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng" format="2">
+  <advance width="500"/>
+  <unicode hex="014B"/>
+  <anchor x="248" y="496" name="top"/>
+  <anchor x="248" y="-31" name="bottom"/>
+  <anchor x="62" y="434" name="apostrophe"/>
+  <outline>
+    <component base="n"/>
+    <contour>
+      <point x="124" y="-138.134" type="line"/>
+      <point x="155" y="-138.134" type="line"/>
+      <point x="155" y="-169.134" type="line"/>
+      <point x="186" y="-169.134" type="line"/>
+      <point x="186" y="-200.134" type="line"/>
+      <point x="372" y="-200.134" type="line"/>
+      <point x="372" y="-169.134" type="line"/>
+      <point x="403" y="-169.134" type="line"/>
+      <point x="403" y="-138.134" type="line"/>
+      <point x="434" y="-138.134" type="line"/>
+      <point x="434" y="19.8525" type="line"/>
+      <point x="372" y="19.8525" type="line"/>
+      <point x="372" y="-138.134" type="line"/>
+      <point x="186" y="-138.134" type="line"/>
+      <point x="186" y="-45.1339" type="line"/>
+      <point x="124" y="-45.1339" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="496"/>
+  <guideline angle="90" x="62" y="0"/>
+  <guideline angle="90" x="434" y="0"/>
+  <guideline angle="90" x="248" y="0"/>
+  <guideline angle="90" x="405" y="0"/>
+  <guideline angle="90" x="374" y="0"/>
+  <guideline angle="0" x="0" y="496"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>n+dotlessj%</string>
+  </dict>
+  </lib>
+</glyph>

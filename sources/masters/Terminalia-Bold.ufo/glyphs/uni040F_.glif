@@ -20,4 +20,7 @@
       <point x="200.617" y="62.0587" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="135" y="0"/>
+  <guideline angle="90" x="361" y="0"/>
+  <guideline angle="90" x="248" y="0"/>
 </glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="longs" format="2">
+  <advance width="500"/>
+  <unicode hex="017F"/>
+  <outline>
+    <contour>
+      <point x="186" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="248" y="372" type="line"/>
+      <point x="372" y="372" type="line"/>
+      <point x="372" y="434" type="line"/>
+      <point x="248" y="434" type="line"/>
+      <point x="248" y="558" type="line"/>
+      <point x="434" y="558" type="line"/>
+      <point x="434" y="620" type="line"/>
+      <point x="248" y="620" type="line"/>
+      <point x="248" y="589" type="line"/>
+      <point x="217" y="589" type="line"/>
+      <point x="217" y="558" type="line"/>
+      <point x="186" y="558" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>f</string>
+  </dict>
+  </lib>
+</glyph>

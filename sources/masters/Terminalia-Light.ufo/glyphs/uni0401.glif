@@ -4,6 +4,8 @@
   <unicode hex="0401"/>
   <anchor x="250" y="690" name="t.macron"/>
   <anchor x="356" y="0" name="b.ogonek"/>
+  <anchor x="248" y="0" name="cedilla"/>
+  <anchor x="248" y="-31" name="bottom"/>
   <outline>
     <component base="uni0415"/>
     <component base="uni0308" xOffset="248" yOffset="124"/>

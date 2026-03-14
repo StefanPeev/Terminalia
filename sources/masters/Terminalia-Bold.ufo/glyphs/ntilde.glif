@@ -3,6 +3,7 @@
   <advance width="500"/>
   <unicode hex="00F1"/>
   <anchor x="250" y="-31" name="bottom"/>
+  <anchor x="49" y="434" name="apostrophe"/>
   <outline>
     <component base="n"/>
     <component base="uni0303" xOffset="250" yOffset="-31"/>

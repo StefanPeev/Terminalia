@@ -3,6 +3,7 @@
   <advance width="500"/>
   <anchor x="248" y="496" name="top"/>
   <anchor x="248" y="-31" name="bottom"/>
+  <anchor x="62" y="434" name="apostrophe"/>
   <outline>
     <component base="n"/>
   </outline>

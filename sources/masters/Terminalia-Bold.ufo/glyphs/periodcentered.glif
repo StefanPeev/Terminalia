@@ -2,6 +2,7 @@
 <glyph name="periodcentered" format="2">
   <advance width="500"/>
   <unicode hex="00B7"/>
+  <anchor x="250" y="310" name="_center"/>
   <outline>
     <contour>
       <point x="204" y="248" type="line"/>
@@ -10,4 +11,10 @@
       <point x="204" y="372" type="line"/>
     </contour>
   </outline>
+  <guideline angle="90" x="204" y="0"/>
+  <guideline angle="90" x="297" y="0"/>
+  <guideline angle="0" x="0" y="372"/>
+  <guideline angle="0" x="0" y="248"/>
+  <guideline angle="90" x="250" y="0"/>
+  <guideline angle="0" x="0" y="310"/>
 </glyph>

@@ -5,6 +5,8 @@
   <anchor x="248" y="690" name="t.macron"/>
   <anchor x="248" y="620" name="t.ring"/>
   <anchor x="294" y="0" name="b.ogonek"/>
+  <anchor x="434" y="496" name="horn"/>
+  <anchor x="248" y="-31" name="bottom"/>
   <outline>
     <component base="U"/>
     <component base="uni0300" xOffset="248" yOffset="124"/>
